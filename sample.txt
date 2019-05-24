@@ -1,1 +1,3 @@
 Hi , Sample Test for GIT
+
+Braching test + remote to local - cloning
