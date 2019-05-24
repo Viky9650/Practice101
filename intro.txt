@@ -1,3 +1,5 @@
 Name: Vickey Panjiyar
 Company: IBM
 ROle: DevOps Engineer
+Location : Bangalore
+HomeTown: Assam
